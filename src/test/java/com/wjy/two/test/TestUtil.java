@@ -10,6 +10,7 @@ import com.wjy.two.FileUtil;
 import com.wjy.two.RandomUtil;
 import com.wjy.two.StringUtil;
 
+//测试类
 public class TestUtil {
 
 	@Test

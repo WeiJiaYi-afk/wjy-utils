@@ -7,6 +7,7 @@ import java.util.Random;
 //随机数工具类
 public class RandomUtil {
 
+	//
 	//返回某个时间段的数据(返回年龄在1-120之间)
 	public static int random(int min, int max) {
 		Random random = new Random();

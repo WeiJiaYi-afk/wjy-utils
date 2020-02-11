@@ -3,6 +3,7 @@ package com.wjy.two;
 //字符串处理工具类
 public class StringUtil {
 
+	//
 	//判断字符串是否为空
 	public static boolean isNull(String str) {
 		if(str==null) {

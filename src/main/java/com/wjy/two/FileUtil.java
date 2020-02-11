@@ -9,6 +9,7 @@ import java.util.List;
 //流处理工具类
 public class FileUtil {
 
+	//
 	//读取文件到集合list中
 	public static List<String> readTextFileToList(String fileName){
 		//创建集合
