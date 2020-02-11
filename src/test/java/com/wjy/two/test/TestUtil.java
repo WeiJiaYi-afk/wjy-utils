@@ -37,6 +37,7 @@ public class TestUtil {
 			System.out.println("返回四位验证码"+RandomUtil.randomChar()); 
 		}
 		
+		
 	}
 	
 	
